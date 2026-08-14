@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rabail Fatima
+# 👋 Hi, I'm Rabail
 
 ### Data Science & AI student focused on Agentic AI, LLM applications, NLP, Machine Learning, and Python backend development.
 
