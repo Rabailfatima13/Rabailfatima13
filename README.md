@@ -8,11 +8,7 @@ Thanks for stopping by — I  build AI agents and the backend systems that power
 
 </div>
 
----
-![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-blue)
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-orange)
-![OpenCV](https://img.shields.io/badge/OpenCV-Image_Processing-green)
+
 ### 🧑‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
